@@ -1,0 +1,7 @@
+r1,x1=map(int,input().spilt())
+r2,x2=map(int,input().spilt())    
+if r1== r2 or x1 == x2:
+    print(1)
+else:
+
+print(2)
